@@ -1,4 +1,4 @@
-module internal/middleware/cassago
+module github.com/awengo/cassago
 
 go 1.20
 
